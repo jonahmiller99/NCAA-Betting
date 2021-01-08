@@ -10,3 +10,7 @@ Update:  Out of nowhere this repo got a lot of traffic. In an effort to not over
 I wrote to scrape.  Instead I have uploaded the pickles which are used in the cleanup file in order to show that the scraping and cleanup work. 
 
 
+1/7
+  - Cleanup Script has been significantly updated locally to turn individual games into useful data.  
+  - Example of the structure of that data is provided in Repo
+  - Other variables will likely be included in final model
