@@ -34,6 +34,9 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
 Michigan State vs. Purdue:  Model Predicts MSU win by 5.5 points.  (Spread opened at -4.5, thus this would be a favorable bet) 
 
  
+ Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+ 
+ Eventually will begin streaming in every game, and having a running total of performance. 
  
  
 
