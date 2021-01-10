@@ -31,12 +31,17 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
 - Given this info it will be interesting to see how the model performs out of sample, and compared to current spreads.  
 - Model that combined SVM and Random Forest Regressor had the best performance thus far..... This is without working much on tuning 
 
-Michigan State vs. Purdue:  Model Predicts MSU win by 5.5 points.  (Spread opened at -4.5, thus this would be a favorable bet) 
 
  
  Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
  
  Eventually will begin streaming in every game, and having a running total of performance. 
+ 
+ 
+ 1/9 
+ - Uploaded final data sample.  
+ - Picks are being posted to twitter
+ - Will upload the actual model this week, (no training data provided) 
  
  
 
