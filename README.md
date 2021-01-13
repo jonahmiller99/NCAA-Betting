@@ -36,6 +36,8 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
 
  ## I want to improve performance and then I will do this regularly
   Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+## 
+  
  
  Eventually will begin streaming in every game, and having a running total of performance. 
  
