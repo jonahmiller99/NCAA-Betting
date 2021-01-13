@@ -34,6 +34,8 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
 
  
  Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+ ## I want to improve performance and then I will do this regularly
+ 
  
  Eventually will begin streaming in every game, and having a running total of performance. 
  
@@ -44,8 +46,12 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  - Will upload the actual model this week, (no training data provided) 
  
  
-
-
+ 1/12
+ - Uploaded the full cleanup script 
+ - This takes the histroical efficiency metrics as well as a few other key values and turns them into individual data points
+ - I use a weighted average - using the previous games' stats as values for the current matchup in the data. 
+ 
+ 
  
  
  
