@@ -51,7 +51,8 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  1/12
  - Uploaded the full cleanup script 
  - This takes the histroical efficiency metrics as well as a few other key values and turns them into individual data points
- - I use a weighted average - using the previous games' stats as values for the current matchup in the data. 
+ - I use a weighted average 3 most recent games - using the previous games' stats as values for the current matchup in the data. 
+ - 3 most recent games account for 60% everything else is 40%
  
  
  
