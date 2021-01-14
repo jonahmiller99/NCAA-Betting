@@ -26,10 +26,6 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  
  ~~ Model Adjusted to predict points by which favored team wins/loses by ~~
  
- Initial results are showing predicted final win/loss amount is ~70% accurate wiithin 0.5 point. 
-- This does not mean 70% of bets will be profitable.  (The bettor is still at the mercy of vegas) 
-- Given this info it will be interesting to see how the model performs out of sample, and compared to current spreads.  
-- Model that combined SVM and Random Forest Regressor had the best performance thus far..... This is without working much on tuning 
 
 
  
@@ -54,7 +50,11 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  - I use a weighted average 3 most recent games - using the previous games' stats as values for the current matchup in the data. 
  - 3 most recent games account for 60% everything else is 40%
  
- 
- 
- 
+ 1/13
+ - Uploaded initial modeling attempt
+ - I used a bunch of different models and attempted to maximize adjusted r^2 as well as my custom scoring metric
+ - Initial results are okay, seeing random forest regressor, gradient boosted regressor, and multiple linear regression all have similar performance
+ - Next steps will be tuning the hyperparameters more
+ - Initially I opted to only use the top 100 NCAA teams in the data set, to improve model performance I will likely expand this soon
+ - Currently using 2015-2021 data (This will grow)
  
