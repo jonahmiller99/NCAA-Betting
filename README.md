@@ -31,6 +31,8 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  
 
  ## I want to improve performance and then I will do this regularly
+ ## Vegas Spread is within 3 points of final score 25.7% of the time, that is what I aim to beat 
+ 
   Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
 ## 
   
@@ -57,4 +59,7 @@ I wrote to scrape.  Instead I have uploaded the pickles which are used in the cl
  - Next steps will be tuning the hyperparameters more
  - Initially I opted to only use the top 100 NCAA teams in the data set, to improve model performance I will likely expand this soon
  - Currently using 2015-2021 data (This will grow)
+ 
+ 
+ 
  
