@@ -22,16 +22,19 @@ Eventually these probabilities will be used in building a betting framework base
   - Although the 2021 dataset will be small, since it is so different perhaps it will be significant. 
   - Initial Models:  Logistic Regression, Random Forest, Support Vector Machine 
  
- ~~ Model Adjusted to predict points by which favored team wins/loses by ~~
+ ~~ 
  
-
+ ##  ~~  Model Adjusted to predict points by which favored team wins/loses by ~~
 
  
 
  ## I want to improve performance and then I will do this regularly
+ 
+   Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+ 
  ## Vegas Spread is within 3 points of final score 25.7% of the time, that is what I aim to beat 
  
-  Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+
 ## 
   
  
