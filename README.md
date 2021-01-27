@@ -30,7 +30,9 @@ Eventually these probabilities will be used in building a betting framework base
 
  ## I want to improve performance and then I will do this regularly
  
-   Uploading Predictions To Twitter: https://twitter.com/AlgoNcaa
+   Uploading Predictions To Google Sheet: https://docs.google.com/spreadsheets/d/1oiYz0PIL_gTicayJuRF_QtpKDnBN6EKMO6eXSXrzhR4/edit#gid=1948771975
+   
+   
  
  ## Vegas Spread is within 3 points of final score 25.7% of the time, that is what I aim to beat 
  
